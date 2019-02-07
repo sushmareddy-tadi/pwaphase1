@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"tom.jpg",
+		"name":"Sushma Reddy",
+		"roll":"17a31a1233",
+		"institute":"Pragati",
+		"place":"Surampalem"
+	},
+	"career":{
+		"info":"to ge a good job"
+	},
+    "education":[
+    	{
+    		"sno":"1.",
+    		"degree":"b.tech",
+    		"institute":"pragati",
+    		"yop":"2018"
+    	},
+    	{
+    		"sno":"2.",
+    		"degree":"inter",
+    		"institute":"aditya",
+    		"yop":"2014"
+    	},
+    	{
+    		"sno":"3.",
+    		"degree":"ssc",
+    		"institute":"sidhartha",
+    		"yop":"2010"
+    	}
+    ],
+    "languages":[
+    	{
+    		"lang":"english"
+    	},
+    	{
+    		"lang":"hindi"
+    	},
+    	{
+    		"lang":"telugu"
+    	}
+
+    ]
+
+    
+}
